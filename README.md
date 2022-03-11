@@ -6,7 +6,6 @@ I'm studying at Uludağ University for Computer Science
 
 
 
-I'm currently learning swift
 
 
 
